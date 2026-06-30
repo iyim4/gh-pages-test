@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+body {
+  color: #003300;
+  font-family: Garamond, "Adobe Garamond Pro", "EB Garamond", "Times New Roman", Times, serif;
+  padding: 10px;
+  font-size: x-large;
+  background: linear-gradient(white, #afceaf);
+  font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Oswald, Arial, Helvetica, sans-serif;
+  color: #006400;
+}
